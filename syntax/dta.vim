@@ -3,6 +3,7 @@ if exists("b:current_syntax")
 endif
 
 syn match Function "\([({]\s*\)\@<=[a-zA-Z0-9_]*"
+syn match Normal "[a-zA-Z0-9_}]*.tex"
 
 syn keyword Keyword delete
 syn keyword Type int
