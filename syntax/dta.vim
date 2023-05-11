@@ -17,6 +17,7 @@ syn keyword Statement foreach_int
 syn keyword Statement if
 syn keyword Statement if_else
 syn keyword Statement switch
+syn keyword Statement unless
 syn keyword Statement while
 
 syn keyword Boolean TRUE FALSE
